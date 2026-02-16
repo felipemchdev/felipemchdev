@@ -58,10 +58,10 @@ projects:
     arm: 0
     description: "Local-first app for structured nutrition and workout data tracking."
   - repo: "felipemchdev/fin_analysis_py"
-    arm: 1
+    arm: 0
     description: "Sales-data preparation and transformation pipeline with an analytical visualization layer."
   - repo: "felipemchdev/datalake_py_parquet"
-    arm: 2
+    arm: 0
     description: "Data ingestion and transformation pipeline in Parquet focused on analytical processing."
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
