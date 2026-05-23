@@ -1,44 +1,44 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
+```console
+felipe@machado ---------------------------------------------------------
+.OS: ................................. Windows 11 / Linux
+.Role: .............................. Junior Data Engineer
+.Focus: ............................. Data Infrastructure & Automation
 
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
+.Currently.Working:
+    - Developing production-grade data pipelines
+    - AI-assisted engineering workflows
+    - Solving OSS workflow/concurrency bugs 
 
-<br/>
+.Experience:
+        - 2 years @ Serasa Experian
+    - Optimized Spark workloads reducing DAG execution from 8min -> 35s
+    - Built validation workflows cutting review time from 20min -> ~2min
+    - Diagnosed and resolved Spark/Airflow production failures in enterprise AWS data platforms
+    - Developed internal tooling for large-scale data platforms
+    
+.Tech:
+    - Python
+    - SQL
+    - PySpark
+    - dbt
+    - Airflow
+    - DuckDB
+    - Delta Lake
+    - AWS
+    - Docker
+    - Spark
+    - Scala
+    - YAML
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
+.Recent.OSS:
+    - delta-rs #4472
+      read_version conflict validation for cross-engine Delta workflows
 
-<br/>
+.Current.Project:
+    - Social Media Analytics Pipeline
+      -stack: dbt + Airflow + PostgreSQL + Streamlit
 
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<details>
-<summary><strong>More about me</strong></summary>
-
-<br/>
-
-
-
-**Currently at** My home, looking for new jobs LOL.
-</details>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:felipe.mch08@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/felipemch/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
-  </a>
-</div>
+.Contact:
+    - GitHub: github.com/felipemchdev
+    - LinkedIn: linkedin.com/in/felipemch
+```
