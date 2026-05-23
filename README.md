@@ -30,14 +30,6 @@ felipe@machado ---------------------------------------------------------
     - Scala
     - YAML
 
-.Recent.OSS:
-    - delta-rs #4472
-      read_version conflict validation for cross-engine Delta workflows
-
-.Current.Project:
-    - Social Media Analytics Pipeline
-      -stack: dbt + Airflow + PostgreSQL + Streamlit
-
 .Contact:
     - GitHub: github.com/felipemchdev
     - LinkedIn: linkedin.com/in/felipemch
