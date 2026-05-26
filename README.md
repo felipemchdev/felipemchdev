@@ -23,12 +23,12 @@ felipe@machado ---------------------------------------------------------
     - dbt
     - Airflow
     - DuckDB
-    - Delta Lake
     - AWS
     - Docker
     - Spark
     - Scala
     - YAML
+    - Postgres
 
 .Contact:
     - GitHub: github.com/felipemchdev
