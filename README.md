@@ -1,7 +1,7 @@
 ```console
 felipe@machado ---------------------------------------------------------
 .OS: ................................. Windows 11 / Linux
-.Role: .............................. Junior Data Engineer
+.Role: .............................. Junior Data & Software Engineer
 .Focus: ............................. Data Infrastructure & Automation
 
 .Currently.Working:
